@@ -8,6 +8,7 @@
     "build": "sst build",
     "deploy": "sst deploy",
     "deploy:perf": "sst deploy --stage perf",
+    "deploy:perfeu": "sst deploy --stage perfeu",
     "remove": "sst remove",
     "console": "sst console",
     "typecheck": "tsc --noEmit"
